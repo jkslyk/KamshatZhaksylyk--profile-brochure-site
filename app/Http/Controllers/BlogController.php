@@ -23,4 +23,14 @@ class BlogController extends Controller
         return back();
 
     }
+
+    public function get_user($id) {
+        $index = Post::find($id);
+
+        if($index == null)
+            return response(['message' => 'user not found'],404);
+
+    
+        return view('blog.detail')->with(['index' => $index]);
+    }
 }
