@@ -13,11 +13,11 @@
 		<div data-collapse="medium" data-animation="default" data-duration="400" id="navbar" role="banner" class="navbar-2 w-nav">
 			<div class="c-nav-2 w-container">
 				<a href="{{  route('profile')  }}" aria-current="page" class="brand-2 w-nav-brand w--current">
-					<p style = " margin-top: 30px; font-size: 30px;">I am Kamshat</p>
+					<p style = " margin-top: 15px; font-size: 25px;">I am Kamshat</p>
 				</a>
 			<div role="navigation" class="c-menu-2 w-nav-menu">
-				<a href="{{  route('about')  }}" class="c-menu_nav-link-2 w-nav-link">About</a>
-				<a href="{{  route('contact')  }}" class="c-menu_nav-link-2 alyssa w-nav-link">Contact</a>
+				<a href="{{  route('about')  }}" class="c-menu_nav-link-1 w-nav-link">About</a>
+				<a href="{{  route('contact')  }}" class="c-menu_nav-link-1 alyssa w-nav-link">Contact</a>
 			</div>
 			<div class="menu-button w-nav-button">
 				<p class="c-menu_nav-link-2">Menu</p>

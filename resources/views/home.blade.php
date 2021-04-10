@@ -13,11 +13,11 @@
 		<div data-collapse="medium" data-animation="default" data-duration="400" id="navbar" role="banner" class="navbar-2 w-nav">
 			<div class="c-nav-2 w-container">
 				<a href="{{  route('profile')  }}" aria-current="page" class="brand-2 w-nav-brand w--current">
-					<p style = " margin-top: 30px; font-size: 30px;">{{ __('lang.Iamkamshat') }}</p>
+					<p style = " margin-top: 15px; font-size: 25px;">{{ __('lang.Iamkamshat') }}</p>
 				</a>
 			<div role="navigation" class="c-menu-2 w-nav-menu">
-				<a href="{{  route('about')  }}" class="c-menu_nav-link-2 w-nav-link">{{ __('lang.about') }}</a>
-				<a href="{{  route('contact')  }}" class="c-menu_nav-link-2 alyssa w-nav-link">{{ __('lang.contact') }}</a>
+				<a href="{{  route('about')  }}" class="c-menu_nav-link-1 w-nav-link">{{ __('lang.about') }}</a>
+				<a href="{{  route('contact')  }}" class="c-menu_nav-link-1 alyssa w-nav-link">{{ __('lang.contact') }}</a>
 			</div>
 			<div class="menu-button w-nav-button">
 				<p class="c-menu_nav-link-2">{{ __('lang.menu') }}</p>
@@ -65,7 +65,7 @@
 			<div class="newsletter">
 				<div class="div-block">
 					<h2 class="h2">{{ __('lang.ptext3') }}</h2>
-					<p class="paragraph-center">{{ __('lang.text4') }}<br/></p>
+					<p class="paragraph-center">{{ __('lang.ptext4') }}<br/></p>
 				</div>
 			</div>
 			<div class="form-block w-form">

@@ -1,10 +1,14 @@
 <?php 
-return['Iamkamshat' => 'Мен Кәмшатпын', 
-'contact' => 'Контакт', 'menu' => 'Меню', 'about' => 'Толығырақ',  
-'hello' => '(cәлем)', 
-'ptext1' => 'Мен Камшат, дизайнер және миссиясы бар адамдарға арналған бренд-стратег.', 
-'ptext2' => 'Мен этикалық веб-сайттарды мұқият ойластырып жасаймын.', 
-'ptext3' => 'Іссапарға шыққан адамдарға арналған ақпараттық бюллетень', 
-'text4' => 'Ай сайын менің UX кеңестерімді кіріс жәшігіңізден алыңыз және инклюзивті, қол жетімді және этикалық веб-сайтта жұмыс істей бастаңыз.',
-'' => '', '' => '', '' => '', '' => '', '' => '', '' => '',];
+return['Iamkamshat' => 'Men Kamshat', 
+'contact' => 'Baılanys', 'menu' => 'Mázir', 'about' => 'Tolyǵyraq',  
+'hello' => '(salem)', 
+'ptext1' => 'Men Kamshat, dızaıner jáne mısıasy bar adamdarǵa arnalǵan brend-strateg.', 
+'ptext2' => 'Men etıkalyq veb-saıttardy sanaly túrde damytamyn.', 
+'ptext3' => 'Mısıadaǵy adamdarǵa arnalǵan aqparattyq búleten', 
+'ptext4' => 'Aı saıyn UX týraly keńesterimdi kiris jáshigińizge alyńyz jáne neǵurlym ınklúzıvti, qol jetimdi jáne etıkalyq jelini qurý úshin jumys isteı bastańyz.',
+'atext1' => 'Atyraýda, Qazaqstanda mysyqpen birge turatyn taǵy bir dızaıner.', 
+'shallwe' => 'Biz?',
+'atext2' => 'Tolyq qaıta qurý nemese qarapaıym ońtaılandyrý týraly oılaısyz ba? Sizdiń veb-saıtyńyzdy nemese ónimdi siz úshin qalaı jumys isteýge bolatyndyǵy týraly 15 mınýttyq tegin sóıleseıik.',
+'letstalk' => 'sóıleseıik', 
+'' => '', '' => '',];
 ?>
