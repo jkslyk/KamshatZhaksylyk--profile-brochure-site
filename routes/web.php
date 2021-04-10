@@ -61,3 +61,8 @@ Route::view('/upload', 'upload');
 Route::post('upload', [UploadController::class,'index']);
 
 Route::get('mail/send','App\Http\Controllers\MailController@send');
+
+Route::get('/profile/{lang}', function ($lang) {
+    App::setlocale($lang);
+    return view('home');
+});
