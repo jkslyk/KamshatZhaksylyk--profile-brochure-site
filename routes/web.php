@@ -71,3 +71,8 @@ Route::get('/about/{lang}', function ($lang) {
     App::setlocale($lang);
     return view('labout');
 });
+
+Route::get('/contact/{lang}', function ($lang) {
+    App::setlocale($lang);
+    return view('lcontact');
+});

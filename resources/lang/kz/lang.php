@@ -10,5 +10,5 @@ return['Iamkamshat' => 'Men Kamshat',
 'shallwe' => 'Biz?',
 'atext2' => 'Tolyq qaıta qurý nemese qarapaıym ońtaılandyrý týraly oılaısyz ba? Sizdiń veb-saıtyńyzdy nemese ónimdi siz úshin qalaı jumys isteýge bolatyndyǵy týraly 15 mınýttyq tegin sóıleseıik.',
 'letstalk' => 'sóıleseıik', 
-'' => '', '' => '',];
+'ctext1' => 'Birge jumys isteıik.'];
 ?>
